@@ -35,7 +35,7 @@
 * 64-tick
 
 Go and stand here on the _verrry_ edge of this guy
-![](@attachment/Clipboard_2023-02-05-16-32-03.png)
+![](attachment/Clipboard_2023-02-05-16-32-03.png)
 
 Line up against wall may look something like this
 ![](@attachment/Clipboard_2023-02-05-16-33-30.png)
