@@ -1,18 +1,31 @@
 # Mirage
 
 ## Index
+
 [B site backsite smoke from T apts](#b-site-backsite-smoke-from-t-apts)
+
 [B site middle bench smoke from T apts](#b-site-middle-bench-smoke-from-t-apts)
+
 [B site smoke bench for apts from T apts](#b-site-smoke-bench-for-apts-from-t-apts)
+
 [A site con & jungle smoke from T spawn](#a-site-con--jungle-smoke-from-t-spawn)
+
 [B site market door smoke from T apts](#b-site-market-door-smoke-from-t-apts)
+
 [B site market window smoke from T apts](#b-site-market-window-smoke-from-t-apts)
+
 [A site from T spawn multi-smokes](#a-site-from-t-spawn-multi-smokes)
+
 [A site Ticket booth smoke from T spawn](#a-site-ticket-booth-smoke-from-t-spawn)
+
 [A ramp smoke from triple/CT](#a-ramp-smoke-from-triplect)
+
 [Cat smoke from underpass](#cat-smoke-from-underpass)
+
 [Mid con smoke (smoke to force con into a passive position)](#mid-con-smoke-smoke-to-force-con-into-a-passive-position)
+
 [Top mid smoke (smoke to get out mid safe)](#top-mid-smoke-smoke-to-get-out-mid-safe)
+
 [One-Way Cat Smoke](#one-way-cat-smoke)
 
 ## B site backsite smoke from T apts
