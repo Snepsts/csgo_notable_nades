@@ -2,7 +2,7 @@
 
 ## Index
 
-[B site backsite smoke from T apts](#b-site-backsite-smoke-from-t-apts)
+[B site backsite smoke from T apts](#b-site-backsite-smoke-from-t-apts) - 64 tick only
 
 [B site middle bench smoke from T apts](#b-site-middle-bench-smoke-from-t-apts)
 
@@ -27,6 +27,12 @@
 [Top mid smoke (smoke to get out mid safe)](#top-mid-smoke-smoke-to-get-out-mid-safe)
 
 [One-Way Cat Smoke](#one-way-cat-smoke)
+
+[One-Way Cat to Top Mid Smoke](#one-way-cat-to-top-mid-smoke)
+
+[Mid Window Smoke from T Spawn](#mid-window-smoke-from-t-spawn) - 64 tick only
+
+[One-Way from Palace to A Site Default/Double](#one-way-from-palace-to-a-site-defaultdouble)
 
 ## B site backsite smoke from T apts
 * Stationary
