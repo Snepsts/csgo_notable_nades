@@ -303,3 +303,66 @@ It should end up like this
 ![](../attachments/Clipboard_2023-02-05-15-02-42.png)
 
 [back to top](#index)
+
+## One-Way Cat to Top Mid Smoke
+* Stationary
+* Left click
+
+Go into this corner (don't jump on the ledge)
+![](../attachments/Clipboard_2023-02-05-15-00-40.png)
+
+Aim here and throw
+![](../attachments/Clipboard_2023-02-10-15-37-39.png)
+
+It should end up like this for you
+![](../attachments/Clipboard_2023-02-10-15-39-33.png)
+![](../attachments/Clipboard_2023-02-10-15-39-48.png)
+![](../attachments/Clipboard_2023-02-10-15-39-59.png)
+
+And this for them
+![](../attachments/Clipboard_2023-02-10-15-40-13.png)
+
+[back to top](#index)
+
+## Mid Window Smoke from T Spawn
+* Moving (hold down A)
+* Left click
+* Jump-throw
+* 64-tick
+
+Stand up against the trashcan and wall here
+![](../attachments/Clipboard_2023-02-10-17-19-30.png)
+
+Aim so you're lined up with these two points, like this:
+![](../attachments/Clipboard_2023-02-10-17-20-04.png)
+
+NOTE: You will hold A and let go when your crosshair crosses the spot I have shot here:
+![](../attachments/Clipboard_2023-02-10-17-21-00.png)
+
+EXTRA NOTE: you will probably hit the stairs as you are running, this should be part of your queue to throw
+
+It should end up like this:
+![](../attachments/Clipboard_2023-02-10-17-24-36.png)
+
+[back to top](#index)
+
+## One-Way from Palace to A Site Default/Double
+* Stationary
+* Crouching
+* Left click
+
+Go here
+![](../attachments/Clipboard_2023-02-10-17-57-27.png)
+
+Line up against pillar like this
+![](../attachments/Clipboard_2023-02-10-17-57-48.png)
+
+Crouch and line up like so, then throw:
+![](../attachments/Clipboard_2023-02-10-18-06-08.png)
+
+NOTE: You will line up with the beginning of the bright window spot and the point where the tile meets as is outlined/shot out with bullets, might wanna practice once or twice before throwing
+
+After throwing, you should get a one way like this:
+![](../attachments/Clipboard_2023-02-10-18-08-02.png)
+
+[back to top](#index)
